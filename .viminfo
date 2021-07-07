@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1625676783,,"wq!"
+|2,0,1625676916,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,28 +28,32 @@
 |3,1,36,0,1,0,1625546361,":"
 
 # File marks:
-'0  1  7  ~/new1.txt
-|4,48,1,7,1625676783,"~/new1.txt"
-'1  17  32  ~/ingress.yaml
-|4,49,17,32,1625560528,"~/ingress.yaml"
+'0  1  6  ~/newfile2.txt
+|4,48,1,6,1625676916,"~/newfile2.txt"
+'1  1  7  ~/new1.txt
+|4,49,1,7,1625676783,"~/new1.txt"
 '2  17  32  ~/ingress.yaml
-|4,50,17,32,1625558679,"~/ingress.yaml"
+|4,50,17,32,1625560528,"~/ingress.yaml"
 '3  17  32  ~/ingress.yaml
-|4,51,17,32,1625558332,"~/ingress.yaml"
+|4,51,17,32,1625558679,"~/ingress.yaml"
 '4  17  32  ~/ingress.yaml
 |4,52,17,32,1625558332,"~/ingress.yaml"
 '5  17  32  ~/ingress.yaml
-|4,53,17,32,1625558202,"~/ingress.yaml"
+|4,53,17,32,1625558332,"~/ingress.yaml"
 '6  17  32  ~/ingress.yaml
 |4,54,17,32,1625558202,"~/ingress.yaml"
 '7  17  32  ~/ingress.yaml
 |4,55,17,32,1625558202,"~/ingress.yaml"
 '8  17  32  ~/ingress.yaml
 |4,56,17,32,1625558202,"~/ingress.yaml"
-'9  16  24  ~/ingress.yaml
-|4,57,16,24,1625558029,"~/ingress.yaml"
+'9  17  32  ~/ingress.yaml
+|4,57,17,32,1625558202,"~/ingress.yaml"
 
 # Jumplist (newest first):
+-'  1  6  ~/newfile2.txt
+|4,39,1,6,1625676916,"~/newfile2.txt"
+-'  1  7  ~/new1.txt
+|4,39,1,7,1625676783,"~/new1.txt"
 -'  1  7  ~/new1.txt
 |4,39,1,7,1625676783,"~/new1.txt"
 -'  17  32  ~/ingress.yaml
@@ -57,6 +61,14 @@
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625560528,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
+|4,39,17,32,1625560528,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625560528,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558679,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558679,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
 |4,39,17,32,1625558679,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625558679,"~/ingress.yaml"
@@ -64,6 +76,14 @@
 |4,39,17,32,1625558332,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625558332,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558332,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558332,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558202,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625558202,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625558202,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
@@ -85,6 +105,26 @@
 -'  16  24  ~/ingress.yaml
 |4,39,16,24,1625558077,"~/ingress.yaml"
 -'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558077,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558029,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
+|4,39,16,24,1625558029,"~/ingress.yaml"
+-'  16  24  ~/ingress.yaml
 |4,39,16,24,1625558029,"~/ingress.yaml"
 -'  16  24  ~/ingress.yaml
 |4,39,16,24,1625558029,"~/ingress.yaml"
@@ -92,6 +132,14 @@
 |4,39,17,32,1625557882,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625557882,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625557882,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625557882,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625557731,"~/ingress.yaml"
+-'  17  32  ~/ingress.yaml
+|4,39,17,32,1625557731,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
 |4,39,17,32,1625557731,"~/ingress.yaml"
 -'  17  32  ~/ingress.yaml
@@ -120,78 +168,30 @@
 |4,39,1,0,1625557404,"~/ingress.yaml"
 -'  1  0  ~/ingress.yaml
 |4,39,1,0,1625557404,"~/ingress.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
--'  15  14  ~/deployment.yaml
-|4,39,15,14,1625547905,"~/deployment.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1625557404,"~/ingress.yaml"
 -'  15  14  ~/deployment.yaml
 |4,39,15,14,1625547905,"~/deployment.yaml"
 -'  15  14  ~/deployment.yaml
@@ -252,6 +252,13 @@
 |4,39,15,14,1625547905,"~/deployment.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/newfile2.txt
+	*	1625676913	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
 
 > ~/new1.txt
 	*	1625676781	0
